@@ -1,0 +1,9 @@
+com\example\codeeditor\controller\CodeCompletionController.class
+com\example\codeeditor\dto\CodeUpdateRequest.class
+com\example\codeeditor\service\CollaborationService.class
+com\example\codeeditor\dto\CompletionResponse.class
+com\example\codeeditor\service\ExternalAiService.class
+com\example\codeeditor\controller\CollaborationController.class
+com\example\codeeditor\CodeEditorBackendApplication.class
+com\example\codeeditor\config\AppConfig.class
+com\example\codeeditor\dto\CompletionRequest.class
